@@ -24,6 +24,7 @@ header nav ul {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    margin-bottom: 0px;
 }
 
 header nav ul li{
